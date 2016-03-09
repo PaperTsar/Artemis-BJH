@@ -1,4 +1,4 @@
-/*
+﻿/*
 * Copyright (C) 2015 Bendegúz Nagy
 * 
 * This program is free software: you can redistribute it and/or modify
@@ -17,9 +17,6 @@
 
 package com.testtubebaby.artemismain.core;
 
-/**
- * Created by Malyom on 2015.07.16..
- */
 public abstract class PooledComponent extends Component {
     public abstract void reset();
 }

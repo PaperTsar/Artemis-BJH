@@ -1,4 +1,4 @@
-/*
+﻿/*
 * Copyright (C) 2015 Bendegúz Nagy
 * 
 * This program is free software: you can redistribute it and/or modify
@@ -28,9 +28,6 @@ import javax.lang.model.element.Modifier;
 import javax.lang.model.element.TypeElement;
 import javax.lang.model.element.VariableElement;
 
-/**
- * Created by Malyom on 2015.07.15..
- */
 class CompSetterMethod {
     String methodName;
     TypeNamePair[] params;

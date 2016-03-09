@@ -1,4 +1,4 @@
-/*
+﻿/*
 * Copyright (C) 2015 Bendegúz Nagy
 * 
 * This program is free software: you can redistribute it and/or modify
@@ -21,9 +21,6 @@ import org.apache.commons.pool2.BasePooledObjectFactory;
 import org.apache.commons.pool2.PooledObject;
 import org.apache.commons.pool2.impl.DefaultPooledObject;
 
-/**
- * Created by Bendegúz on 2015.07.19..
- */
 public class ComponentFactory extends BasePooledObjectFactory<Component>{
     Class<? extends Component> compClass;
 

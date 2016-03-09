@@ -1,4 +1,4 @@
-/*
+﻿/*
 * Copyright (C) 2015 Bendegúz Nagy
 * 
 * This program is free software: you can redistribute it and/or modify
@@ -33,9 +33,7 @@ import javax.lang.model.type.MirroredTypesException;
 import javax.lang.model.type.TypeKind;
 import javax.lang.model.type.TypeMirror;
 
-/**
- * Created by Malyom on 2015.07.14..
- */
+
 class FactoryData {
     List<String> compos = new ArrayList<>();
     List<String> simpleCompos = new ArrayList<>();

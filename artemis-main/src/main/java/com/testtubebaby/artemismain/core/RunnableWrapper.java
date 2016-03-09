@@ -1,4 +1,4 @@
-/*
+﻿/*
 * Copyright (C) 2015 Bendegúz Nagy
 * 
 * This program is free software: you can redistribute it and/or modify
@@ -20,9 +20,7 @@ package com.testtubebaby.artemismain.core;
 
 import java.util.concurrent.CountDownLatch;
 
-/**
- * Created by Bendegúz on 2015.07.20..
- */
+
 class RunnableWrapper implements Runnable {
     private int from, to;
     private EntitySystem sys;

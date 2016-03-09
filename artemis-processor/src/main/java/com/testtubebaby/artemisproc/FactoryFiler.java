@@ -1,4 +1,4 @@
-/*
+﻿/*
 * Copyright (C) 2015 Bendegúz Nagy
 * 
 * This program is free software: you can redistribute it and/or modify
@@ -22,9 +22,7 @@ import java.io.IOException;
 
 import javax.annotation.processing.Filer;
 
-/**
- * Created by Malyom on 2015.07.15..
- */
+
 class FactoryFiler {
     private static final String mainLib = "com.testtubebaby.artemismain.core.";
     private static final String factPack = "com.testtubebaby.artemismain.genfacts";
